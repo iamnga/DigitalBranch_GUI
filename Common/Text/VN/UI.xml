@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <item key="IDS_Button_Exit" value="Thoát" />
+  <item key="IDS_notHaveAccount" value="Quý khách không có tài khoản trong BIDV." />
+  <item key="IDS_CO_LetChoosMethodBelow" value="Quý khách vui lòng chọn một trong các phương thức dưới đây:" />
+  <item key="IDS_DepositMyAccount" value="Nộp tiền vào tài khoản của tôi" />
+  <item key="IDS_CashAndDeposit" value="Tiền mặt và nộp vào tài khoản của tôi" />
+  <item key="IDS_DepositAnotherAccount" value="Nộp tiền vào tài khoản của người khác" />
+  <item key="IDS_AreYouSureToExit" value="Quý khách có muốn thoát khỏi giao dịch?" />
+  <item key="IDS_Yes" value="Có" />
+  <item key="IDS_No" value="Không" />
+  <item key="IDS_OnlyDepositIndividualAccount" value="STM chỉ hỗ trợ nộp tiền vào tài khoản khách hàng cá nhân!" />
+  <item key="IDS_PleaseEnterDepositAccountNumber" value="Quý khách vui lòng nhập số tài khoản cần nộp tiền:" />
+  <item key="IDS_AccountNumber" value="Số tài khoản" />
+  <item key="IDS_Button_Confirm" value="Xác nhận" />
+  <item key="IDS_CO_STMNotSupportBusinessCus" value="STM hiện không hỗ trợ giao dịch nộp tiền vào tài khoản khách hàng doanh nghiệp." />
+  <item key="IDS_CO_GotoBank" value="Hãy đến ngân hàng để tiếp tục giao dịch!" />
+  <item key="IDS_Confirm1" value="Vui lòng xác nhận thông tin" />
+  <item key="IDS_MyAccount" value="Tài khoản của tôi" />
+  <item key="IDS_receivemoneyAmount" value="Nhận số tiền" />
+  <item key="IDS_depositToBeneAcc" value="Nộp tiền vào tài khoản người nhận" />
+  <item key="IDS_BeneficiaryAccount" value="Tài khoản người nhận" />
+  <item key="IDS_depositCA" value="Nộp tiền thừa vào tài khoản của tôi" />
+  <item key="IDS_DepositorAcc" value="Tài khoản của tôi" />
+  <item key="IDS_ReturnCash" value="Hoàn trả bằng tiền mặt" />
+  <item key="IDS_Confirm" value="Xác nhận" />
+  <item key="IDS_AccName" value="Tên tài khoản:" />
+  <item key="IDS_AccNo" value="Số tài khoản:" />
+  <item key="IDS_DepositAmount" value="Số tiền nộp:" />
+  <item key="IDS_Details" value="Chi tiết" />
+  <item key="IDS_Cancel" value="Hủy bỏ" />
+  <item key="IDS_DepositSuccess1" value="Giao dịch tiền gửi của quý khách đã thành công!" />
+  <item key="IDS_CO_Name" value="Tên" />
+  <item key="IDS_CO_CIF" value="Mã số khách hàng" />
+  <item key="IDS_OK" value="Xác nhận" />
+  <item key="IDS_noaccount_support10thou" value="Quý khách chưa có tài khoản tại BIDV, STM chỉ hỗ trợ giao dịch có giá trị là bội số của 10,000 VND." />
+  <item key="IDS_Button_Edit" value="Sửa" />
+  <item key="IDS_Button_Edit_Amount" value="Chỉnh sửa số tiền muốn nộp" />
+  <item key="IDS_OpenAccount" value="Mở tài khoản mới" />
+  <item key="IDS_Button_Cancel" value="Hủy" />
+  <item key="IDS_Button_Cancel_Transaction" value="Hủy giao dịch" />
+  <item key="IDS_keyinDepositAmount" value="Vui lòng nhập số tiền quý khách muốn thực hiện giao dịch nộp tiền!" />
+  <item key="IDS_CO_SysIsProcessing" value="Hệ thống đang xử lý! Xin quý khách vui lòng chờ trong giây lát!" />
+  <item key="IDS_YourAccountInvalid" value="Trạng thái tài khoản của quý khách không hợp lệ." />
+  <item key="IDS_lessthan200notes" value="Do quý khách không có tài khoản tại BIDV, STM chỉ hỗ trợ gửi tiền vào tài khoản khác dưới ≤ 200 tờ." />
+  <item key="IDS_gotobank" value="Vui lòng nhận tiền của quý khách và đến ngân hàng." />
+  <item key="IDS_stm_full" value="Hiện các hộp tiền của STM đã đầy. Quý khách vui lòng nhận lại tiền và đến điểm giao dịch gần nhất của BIDV để thực hiện giao dịch. Xin cảm ơn!" />
+  <item key="IDS_remain_amount_1" value="Số tiền còn lại là" />
+  <item key="IDS_remain_amount_2" value=" VND sẽ được gửi vào tài khoản của quý khách." />
+  <item key="IDS_NotSupportBusiness" value="STM không được hỗ trợ cho doanh nghiệp của bạn." />
+  <item key="IDS_GreaterCash" value="Số tiền quý khách nộp lớn hơn số tiền muốn nộp." />
+  <item key="IDS_ReceiveExceedCash" value="Vui lòng nhận lại tiền thừa tại khe tiền!" />
+  <item key="IDS_Continue" value="Tiếp tục" />
+  <item key="IDS_PleasePayWithdrawlFee" value="Quý khách vui lòng thanh toán phí rút tiền và phí in biên lai giao dịch" />
+  <item key="IDS_Button_Back" value="Quay lại" />
+  <item key="IDS_AmountEnteredInvalid" value="Số tiền quý khách nhập không hợp lệ." />
+  <item key="IDS_PleaseEnterAmount" value="Quý khách vui lòng nhập lại số tiền!" />
+  <item key="IDS_TransactionOverDailyLimit" value="Giao dịch của quý khách vượt hạn mức trong ngày." />
+  <item key="IDS_PleaseReinputAmount" value="Quý khách vui lòng nhập lại số tiền hoặc thực hiện lại vào ngày tiếp theo!" />
+  <item key="IDS_TransactionOver20" value="Quý khách đã thực hiện quá 20 giao dịch trong ngày." />
+  <item key="IDS_PleaseTryAgainNextDay" value="Vui lòng thực hiện lại giao dịch vào ngày tiếp theo hoặc tới quầy giao dịch!" />
+  <item key="IDS_TransferYourAmountOverLimit1" value="Xin lỗi, số tiền giao dịch vượt quá hạn mức" />
+  <item key="IDS_TransferAmountisUnder1" value="Số tiền chuyển dưới" />
+  <item key="IDS_TransferAmountisUnder2" value="VND mỗi giao dịch." />
+  <item key="IDS_StartedQRAgentFailed" value="Xin lỗi, hệ thống không thể tạo mã QR, vui lòng thử lại!" />
+  <item key="IDS_ScanQRFailed" value="Lỗi khay nhận tài liệu" />
+  <item key="IDS_PleaseHandTheSigned" value="Quý khách vui lòng đưa hồ sơ đã ký cho tư vấn viên của BIDV." />
+  <item key="IDS_SystemDisconnected" value="Xin lỗi quý khách, do hệ thống bị ngắt kết nối. Quý khách vui lòng vào quầy giao dịch!" />
+  <item key="IDS_CantConnectTeller" value="Xin lỗi quý khách, hiện STM không thể kết nối được với tư vấn viên." />
+  <item key="IDS_TransactionCancelled" value="Giao dịch hiện đã bị hủy!" />
+  <item key="IDS_CanNotFoundCIF" value="STM không tìm thấy mã số khách hàng của quý khách!" />
+  <item key="IDS_SelectMethodContinue" value="Vui lòng lựa chọn phương thức nhận diện để tiếp tục giao dịch:" />
+  <item key="IDS_ReEnterRecognitionInfo" value="Nhập lại thông tin nhận diện" />
+  <item key="IDS_CO_ChooseOtherMethod" value="Chọn phương thức nhận diện khác" />
+  <item key="IDS_CO_CannotGetYourProfiles" value="Xin lỗi quý khách, STM không tìm thấy thông tin của quý khách!" />
+  <item key="IDS_CO_NewRegistration" value="Đăng ký mới" />
+  <item key="IDS_Connect_Teller" value="Kết nối với TVV" />
+  <item key="IDS_FaceNotMatch" value="Khuôn mặt của bạn không phù hợp với đăng ký tại BIDV!" />
+  <item key="IDS_ExcessAmount" value="STM nhận được số tiền lớn hơn số tiền quý khách muốn nộp vào tài khoản và hiện chỉ có thể trả lại" />
+  <item key="IDS_exceed_PLCMoneyBack" value="Vui lòng chọn phương thức nhận lại tiền thừa:" />
+  <item key="IDS_excessReturnCash" value="Vui lòng chọn tài khoản nhận lại tiền thừa:" />
+  <item key="IDS_excessReturnCash2" value="VND. Vui lòng chọn phương thức lấy lại tiền:" />
+  <item key="IDS_exceed_money1" value="Số tiền đã nộp lớn hơn số tiền quý khách muốn nộp. Tiền thừa là" />
+  <item key="IDS_exceed_money2" value="VND. Quý khách vui lòng chọn phương thức nhận lại tiền thừa:" />
+  <item key="IDS_DepositExceedMoneyToAccount" value="Gửi tiền thừa vào tài khoản" />
+  <item key="IDS_DepositToSelectAcc" value="Gửi tiền thừa vào TK người nhận" />
+  <item key="IDS_DepositToCurrentAcc" value="Gửi tiền thừa vào TK của tôi" />
+  <item key="IDS_LessAmount_choose" value="Số tiền quý khách đã nộp ít hơn số tiền muốn nộp nhưng STM hiện chỉ hỗ trợ tối đa cho 200 tờ / giao dịch. Vui lòng chọn:" />
+  <item key="IDS_LessAmount" value="Số tiền quý khách đã nộp ít hơn số tiền muốn nộp." />
+  <item key="IDS_PLSubmitAmount" value="Quý khách vui lòng nộp thêm số tiền còn thiếu là" />
+  <item key="IDS_Deposit" value="Nộp" />
+  <item key="IDS_ToSelectedAccount" value="vào TK người nhận" />
+  <item key="IDS_Menu_OpenCA" value="Mở tài khoản" />
+  <item key="IDS_Menu_Deposit1" value="Nộp tiền vào TK Thanh Toán" />
+  <item key="IDS_WithdrawlCurrentAccount" value="Rút tiền từ TK TT bằng thẻ ATM" />
+  <item key="IDS_EnrollFaceIDandFingervein" value="Đăng ký khuôn mặt và vân tay" />
+  <item key="IDS_Smartbanking" value="BIDV Smartbanking" />
+  <item key="IDS_BIDVOnline" value="BIDV Online" />
+  <item key="IDS_IDcardPassport" value="Giấy tờ tuỳ thân / Hộ chiếu" />
+  <item key="IDS_NotAccount" value="Số điện thoại của quý khách đã đăng ký sử dụng cho nhiều khách hàng." />
+  <item key="IDS_ChooseOtherMethodOrtoBank" value="Vui lòng chọn phương thức khác để nhận biết hoặc đến ngân hàng:" />
+  <item key="IDS_CO_LetChoosReMethod" value="Vui lòng chọn một trong số các phương thức nhận diện dưới đây!" />
+  <item key="IDS_CO_FaceID" value="Nhận diện khuôn mặt" />
+  <item key="IDS_CO_ID1" value="Giấy tờ tùy thân" />
+  <item key="IDS_CO_PhoneNo" value="Số điện thoại" />
+  <item key="IDS_CO_currentACC2" value="Số tài khoản thanh toán" />
+  <item key="IDS_ATMCard" value="Thẻ ngân hàng" />
+  <item key="IDS_TransactionInfomationError" value="Thông tin giao dịch của quý khách bị lỗi - Mã D" />
+  <item key="IDS_WhatKindOfPaper" value="Những loại giấy tờ tùy thân nào bạn có?" />
+  <item key="IDS_CO_OldIDCard" value="Chứng minh nhân dân giấy" />
+  <item key="IDS_New_ID_Number" value="Chứng minh nhân dân Plastic" />
+  <item key="IDS_CO_citizenIdCard" value="Thẻ căn cước công dân" />
+  <item key="IDS_CO_Passport" value="Hộ chiếu thông thường" />
+  <item key="IDS_CO_Diplomatic_Official_Passport" value="Hộ chiếu ngoại giao, công vụ" />
+  <item key="IDS_PleaseEnterYourPin" value="Quý khách vui lòng nhập mã PIN và chọn xác nhận để tiếp tục giao dịch" />
+  <item key="IDS_YourPinIsPrivate" value="Mã PIN của quý khách cần bảo mật – Vui lòng che thông tin PIN khi quý khách nhập" />
+  <item key="IDS_PinIsInvalid0" value="Quý khách đã nhập sai mật khẩu quá 3 lần, vui lòng nhận lại thẻ!" />
+  <item key="IDS_PinIsInvalid1" value="PIN không hợp lệ - vui lòng thử lại! 0 lần thử còn lại." />
+  <item key="IDS_PinIsInvalid2" value="PIN không hợp lệ - vui lòng thử lại! 1 lần thử còn lại." />
+  <item key="IDS_PinIsInvalid3" value="PIN không hợp lệ - vui lòng thử lại! 2 lần thử còn lại." />
+  <item key="IDS_ProCurrentAccountNo" value="Vui lòng nhập số tài khoản thanh toán của quý khách tại BIDV" />
+  <item key="IDS_AccountNo" value="Số tài khoản:" />
+  <item key="IDS_InputCIFNo" value="Vui lòng nhập mã số khách hàng của quý khách tại BIDV" />
+  <item key="IDS_CIFNo" value="Mã số khách hàng:" />
+  <item key="IDS_InputIDCardNo" value="Vui lòng nhập mã số giấy tờ tùy thân của quý khách tại BIDV" />
+  <item key="IDS_IDCardNo" value="Mã số giấy tờ tùy thân:" />
+  <item key="IDS_InputUserNameNo" value="Vui lòng nhập thông tin đăng nhập dịch vụ eBanking của quý khách tại BIDV" />
+  <item key="IDS_UserNameNo" value="Tên đăng nhập:" />
+  <item key="IDS_PasswordNo" value="Mật khẩu:" />
+  <item key="IDS_AlreadySent" value="Chúng tôi đã gửi mã OTP cho quý khách qua điện thoại!" />
+  <item key="IDS_PleaseKeyInOTP" value="Vui lòng nhập mã OTP!" />
+  <item key="IDS_OTPcode0" value="Quý khách đã nhập mã OTP nhiều hơn 3 lần!" />
+  <item key="IDS_PleaseConnectTeller" value="Quý khách vui lòng kết nối với tư vấn viên để được hỗ trợ!" />
+  <item key="IDS_OTPcode1" value="Mã OTP không hợp lệ - vui lòng thử lại! Còn lại 1 lần thử." />
+  <item key="IDS_OTPcode2" value="Mã OTP không hợp lệ - vui lòng thử lại! Còn lại 2 lần thử." />
+  <item key="IDS_OTPcode3" value="Mã OTP không hợp lệ - vui lòng thử lại! Còn lại 3 lần thử." />
+  <item key="IDS_notReceive" value="Quý khách chưa nhận được tin nhắn OTP?" />
+  <item key="IDS_NewOtp" value=" Gửi OTP mới!" />
+  <item key="IDS_InputPhoneNo" value="Vui lòng nhập số điện thoại của quý khách tại BIDV" />
+  <item key="IDS_PhoneNo" value="Số điện thoại:" />
+  <item key="IDS_DisplayName" value="Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ của BIDV." />
+  <item key="IDS_Rate_Stars" value="Vui lòng đánh giá mức độ hài lòng về chất lượng dịch vụ của chúng tôi!" />
+  <item key="IDS_PleaseSelectAmount" value="Quý khách vui lòng chọn hoặc nhập số tiền cần rút" />
+  <item key="IDS_AvailableNotes" value="Số tiền rút phải là bội số của" />
+  <item key="IDS_minAcount" value="Số dư duy trì tối thiểu là 50,000 VND" />
+  <item key="IDS_AmountMultipleOf" value="Số tiền giao dịch là bội số của" />
+  <item key="IDS_KeyInAmount" value="Số tiền đã nhập" />
+  <item key="IDS_PleaseScanFingervein" value="Hãy quét tĩnh mạch ngón tay của quý khách!" />
+  <item key="IDS_PleaseScan3Times" value="Hãy quét ngón tay của quý khách 3 lần! |Chỉ sử dụng một ngón tay!" />
+  <item key="IDS_RequiredFingerPrint" value="Để thực hiện giao dịch, chúng tôi cần lấy mẫu tĩnh mạch ngón tay của quý khách" />
+  <item key="IDS_FullName" value="Họ tên" />
+  <item key="IDS_PleaseScanFingerprintScanner" value="Quý khách vui lòng thực hiện quét tĩnh mạch ngón tay" />
+  <item key="IDS_FingerprintNotMatch" value="Xin lỗi, tĩnh mạch ngón tay của quý khách không thành công, vui lòng thử lại!" />
+  <item key="IDS_HaveAttempt1" value="Quý khách còn" />
+  <item key="IDS_HaveAttempt2" value="lần thử" />
+  <item key="IDS_MatchSuccessfully" value="Thành công" />
+  <item key="IDS_PleaseScan4Times" value="Quý khách vui lòng quét tĩnh mạch ngón tay 3 lần. Lưu ý: Sử dụng duy nhất 1 ngón tay" />
+  <item key="IDS_AnotherTrans" value="Quý khách có muốn thực hiện một giao dịch khác?" />
+  <item key="IDS_CO_PrintTicket" value="Quý khách có muốn in hóa đơn?" />
+  <item key="IDS_SignNotMatch" value="Chữ ký của quý khách không khớp đúng." />
+  <item key="IDS_WouldYouLikeToSign" value="Quý khách có muốn in lại biểu mẫu và ký lại không?" />
+  <item key="IDS_Account_Cannot_Transition" value="Tài khoản của quý khách hiện không thể giao dịch tại STM." />
+  <item key="IDS_CantConnectAgent" value="Xin lỗi quý khách, hiện STM không thể kết nối được với tư vấn viên." />
+  <item key="IDS_GTBranchTransactionCancelled" value="Giao dịch bị huỷ." />
+  <item key="IDS_SA_CaptureDoc" value="Hãy chụp hình tài liệu!" />
+  <item key="IDS_SA_PleaseConfirmImageScannedCorrect" value="Xin vui lòng kiểm tra và xác nhận tài liệu đã ký!" />
+  <item key="IDS_CheckInfo" value="Vui lòng kiểm tra thông tin tài khoản của khách hàng!" />
+  <item key="IDS_CO_Full_Name" value="Họ và tên:" />
+  <item key="IDS_CO_IDPassportNoOLB" value="Số CMND/Hộ chiếu:" />
+  <item key="IDS_PlaceOfIssue" value="Nơi cấp:" />
+  <item key="IDS_IssueDate" value="Ngày phát hành:" />
+  <item key="IDS_ExppiryDate" value="Ngày hết hạn:" />
+  <item key="IDS_DateOfBirth" value="Ngày sinh:" />
+  <item key="IDS_PlaceOfBirth" value="Nơi sinh:" />
+  <item key="IDS_Address" value="Địa chỉ:" />
+  <item key="IDS_CO_ConnectAgent" value="Kết nối giao dịch viên! Quý khách vui lòng chờ trong giây lát!" />
+  <item key="IDS_CO_AgentBusy" value="Xin lỗi, tất cả giao dịch viên đang bận! Xin vui lòng thử lại!" />
+  <item key="IDS_Button_Recall" value="Gọi lại" />
+  <item key="IDS_BirthdayInformationWrong" value="Thông tin ngày sinh của quý khách bị sai." />
+  <item key="IDS_DepositMoreCash" value="Số tiền nộp không đủ! Vui lòng nộp thêm tiền!" />
+  <item key="IDS_MissingAmount" value="Số tiền còn thiếu:" />
+  <item key="IDS_ReceiveMoney" value="Số tiền nhận được STM (Số tiền đã nhập)" />
+  <item key="IDS_OtherAccountNumber" value="Số tài khoản khác" />
+  <item key="IDS_receiveMoney" value="Hãy nhận tiền của quý khách!" />
+  <item key="IDS_After30SecondsRetractMoney" value="Sau 30 giây, quý khách không lấy tiền: STM thu hồi tiền!" />
+  <item key="IDS_ThankYouRemoveCard2" value="Quý khách vui lòng nhận thẻ trước khi nhận tiền." />
+  <item key="IDS_After30SecondsRetractCard" value="Sau 30 giây, quý khách không nhận thẻ: STM rút lại thẻ!" />
+  <item key="IDS_YourCardHasExpired" value="Giấy tờ tuỳ thân của quý khách đã hết hạn sử dụng" />
+  <item key="IDS_ScanFaceAgain" value="Quét khuôn mặt lần nữa" />
+  <item key="IDS_FaceChangeFail" value="Xin lỗi, khuôn mặt của quý khách thay đổi không thành công, vui lòng thử lại!" />
+  <item key="IDS_FaceMachineBroken" value="Thiết bị thu thập khuôn mặt tạm thời bị lỗi." />
+  <item key="IDS_FaceChangeSuccess" value="Khuôn mặt của quý khách đã được thay đổi thành công!" />
+  <item key="IDS_FingerveinDeviceFails" value="Thiết bị thu thập tĩnh mạch ngón tay tạm thời bị lỗi." />
+  <item key="IDS_PleaseRegisterFingervein" value="Quý khách vui lòng đăng ký lại tĩnh mạch ngón tay sau!" />
+  <item key="IDS_CO_TakeBackYourMoney" value="Vui lòng lấy lại tiền của quý khách!" />
+  <item key="IDS_IDCardInvalid" value="Giấy tờ tuỳ thân của quý khách không hợp lệ vì" />
+  <item key="IDS_IDNumberInformationWrong" value="Thông tin số tài khoản của quý khách bị sai." />
+  <item key="IDS_CO_PleaseInsertYourCardIntoCS_ATMCard" value="Quý khách vui lòng đưa thẻ ATM vào đầu đọc thẻ!" />
+  <item key="IDS_InsertCardCorrectDirection" value="Quý khách vui lòng đưa thẻ ATM theo đúng hướng!" />
+  <item key="IDS_SA_PleaseInsertSDIntoDB" value="Quý khách vui lòng đưa tài liệu đã ký vào khe tài liệu!" />
+  <item key="IDS_CO_PleaseInsertYourCardIntoCS1" value="Quý khách vui lòng đưa thẻ căn cước vào đầu đọc thẻ!" />
+  <item key="IDS_CO_PleaseInputMoneyIntoCS" value="Quý khách vui lòng đưa tiền vào khe tiền!" />
+  <item key="IDS_CO_PleaseInsertYourPBIntoSC" value="Quý khách vui lòng đưa hộ chiếu vào máy quét!" />
+  <item key="IDS_InvalidSignature" value="Chữ ký của quý khách không hợp lệ." />
+  <item key="IDS_CO_WeWillScanYourFace" value="Chúng tôi sẽ quét khuôn mặt của quý khách." />
+  <item key="IDS_CO_PleaseLookCamera1" value="Xin vui lòng nhìn vào camera kép với đèn đỏ và di chuyển đến gần camera hơn!" />
+  <item key="IDS_IssuedDateInformationWrong" value="Thông tin ngày phát hành của quý khách bị sai." />
+  <item key="IDS_IncorrectIssuePlace" value="Thông tin địa điểm phát hành của quý khách bị sai." />
+  <item key="IDS_GTBranch" value="Xin mời đến quầy để tiếp tục giao dịch!" />
+  <item key="IDS_MinimumAmount" value="Số tiền tối thiểu để duy trì tài khoản là" />
+  <item key="IDS_NameInformationWrong" value="Thông tin tên của quý khách bị sai." />
+  <item key="IDS_noaccount_transaction" value="Quý khách không có tài khoản có thể giao dịch tại STM." />
+  <item key="IDS_NotSupportChipCard" value="Xin lỗi quý khách, hệ thống hiện chưa hỗ trợ loại thẻ CHIP và thẻ do ngân hàng khác phát hành cho giao dịch này." />
+  <item key="IDS_useMagneticOrToBank" value="Vui lòng sử dụng thẻ từ hoặc đến ngân hàng!" />
+  <item key="IDS_YouAreNotRegister" value="Quý khách chưa đăng ký giao dịch tĩnh mạch ngón tay tại BIDV." />
+  <item key="IDS_ChooseAnotherMethod" value="Quý khách vui lòng chọn một trong các phương thức dưới đây:" />
+  <item key="IDS_PinLock" value="Thẻ của quý khách đã bị khóa vì quý khách nhập sai mã PIN 3 lần!" />
+  <item key="IDS_TakeCard" value="Vui lòng lấy lại thẻ của quý khách!" />
+  <item key="IDS_PlaceBirthInformationWrong" value="Thông tin nơi sinh của quý khách bị sai." />
+  <item key="IDS_CO_PleaseTakeIDCardPassport" value="Quý khách vui lòng lấy Giấy tờ tuỳ thân / Hộ chiếu!" />
+  <item key="IDS_CO_PleaseCheckInfoPD1" value="Quý khách vui lòng kiểm tra thông tin trong tài liệu đã in." />
+  <item key="IDS_Sign" value="Xin hãy ký để xác nhận!" />
+  <item key="IDS_ProcessingPleaseWait" value="Giao dịch đang được xử lý, quý khách vui lòng chờ trong giây lát!" />
+  <item key="IDS_warning" value="Cảnh báo" />
+  <item key="IDS_PleaseRemoveStrangeObjects" value="Quý khách vui lòng loại bỏ các vật thể lạ trước khi bỏ tiền vào khe tiền mặt." />
+  <item key="IDS_MoreThan200Noitce" value="Nếu gửi hơn 200 tờ thì không thể hủy giao dịch" />
+  <item key="IDS_exceedmoney_noreturn" value="Số tiền thừa (nếu có) mà STM có thể trả lại sẽ được chuyển vào tài khoản của quý khách." />
+  <item key="IDS_InputPwd3Times" value="Quý khách đã nhập sai mật khẩu nhiều hơn 3 lần!" />
+  <item key="IDS_SA_reInsertSDIntoDB" value="Quý khách vui lòng đưa lại tài liệu đã ký vào hộp!" />
+  <item key="IDS_ScanFailed" value="Quét lỗi! Xin thử lại!" />
+  <item key="IDS_CO_PleaseScanDoc" value="Quý khách vui lòng quét tài liệu!" />
+  <item key="IDS_PutIDCardOnDocScan" value="Quý khách lòng đưa Giấy tờ tuỳ thân / Hộ chiếu vào khe quét tài liệu." />
+  <item key="IDS_PleaseSelectAccount" value="Quý khách vui lòng chọn một trong các tài khoản!" />
+  <item key="IDS_AccountNumber2" value="Số tài khoản" />
+  <item key="IDS_Button_Next" value="Tiếp tục" />
+  <item key="IDS_PleaseSelectWithdrawlAccount" value="Quý khách vui lòng chọn một trong các SĐT để gửi tiền!" />
+  <item key="IDS_SA_CashAmount" value="Số tiền" />
+  <item key="IDS_SA_TotalAmount" value="Tổng cộng:" />
+  <item key="IDS_StmCounting" value="STM đang đếm, quý khách vui lòng chờ giây lát!" />
+  <item key="IDS_CO_StmIsScanning" value="STM đang quét, quý khách vui lòng chờ giây lát!" />
+  <item key="IDS_ThankYouUsingBIDV" value="Cảm ơn quý khách đã sử dụng dịch vụ tại BIDV." />
+  <item key="IDS_GoodBye" value="Tạm biệt và hẹn gặp lại!" />
+  <item key="IDS_TransFails" value="Giao dịch thất bại. Vui lòng thử lại sau!" />
+  <item key="IDS_CO_TranSuccess" value="Giao dịch thành công!" />
+  <item key="IDS_CurrentlyMachineUnable" value="Xin lỗi quý khách, hiện tại máy STM không thể in biên lai!" />
+  <item key="IDS_DoYouWantToContinue" value="Quý khách có muốn tiếp tục giao dịch không?" />
+  <item key="IDS_CO_UnSuccessfulScan" value="Quét không thành công. Xin thử lại!" />
+  <item key="IDS_Invalid_Account_Number" value="Số tài khoản không hợp lệ. Vui lòng nhập lại!" />
+  <item key="IDS_AllTellerBusy" value="Các giao dịch viên hiện đang bận, hệ thống đang thử kết nối." />
+  <item key="IDS_WaitMinute" value="Quý khách vui lòng chờ trong ít phút." />
+  <item key="IDS_Scanfaceagian" value="Quét lại khuôn mặt" />
+  <item key="IDS_ChooseOtherMethods" value="Chọn phương thức khác" />
+  <item key="IDS_RegisteredFaceID" value="Quý khách đã đăng ký khuôn mặt." />
+  <item key="IDS_RegisteredFingervein" value="Quý khách đã đăng ký tĩnh mạch ngón tay." />
+  <item key="IDS_RegisteredFaceIDFingervein" value="Quý khách đã đăng ký khuôn mặt và tĩnh mạch ngón tay." />
+  <item key="IDS_ChooseOtherTransaction" value="Quý khách vui lòng chọn giao dịch khác!" />
+  <item key="IDS_InputWrongPass3Time" value="Quý khách đã nhập sai mật khẩu quá 3 lần," />
+  <item key="IDS_VerifyIDCardPassport" value="Xin hãy nhận diện bằng Giấy tờ tuỳ thân!" />
+  <item key="IDS_InputWrongOtp3Time" value="Quý khách đã nhập sai mã OTP quá 3 lần," />
+  <item key="IDS_PrintingPleaseWait" value="Hệ thống đang in. Quý khách vui lòng chờ trong giây lát!" />
+  <item key="IDS_CO_PrintReceiptFailed" value="Quá trình in hóa đơn bị lỗi!" />
+  <item key="IDS_TakeReceipt" value="Vui lòng lấy biên lai của quý khách!" />
+  <item key="IDS_Male" value="Nam" />
+  <item key="IDS_Female" value="Nữ" />
+  <item key="IDS_DOB" value="Ngày sinh" />
+  <item key="IDS_Nationality" value="Quốc tịch" />
+  <item key="IDS_DateOfIssue" value="Ngày cấp" />
+  <item key="IDS_CO_IDPassportNo" value="Số giấy tờ tùy thân/ Hộ chiếu." />
+  <item key="IDS_CurrentAddress" value="Địa chỉ tạm trú" />
+  <item key="IDS_Phone" value="Số điện thoại" />
+  <item key="IDS_CO_CusInformation" value="Thông tin khách hàng" />
+  <item key="IDS_CO_TermsAndConditions" value="Điều khoản sử dụng" />
+  <item key="IDS_TermsAndConditionsOne" value="1. Tôi xác nhận rằng thông tin nêu trên là đúng và chính xác. Tôi đồng ý rằng Ngân hàng có thể sử dụng số điện thoại, email và cá nhân  thông tin mà tôi đã cung cấp ở trên để xác minh danh tính của tôi khi tôi đăng ký để sử dụng các dịch vụ ngân hàng thông qua các kênh trực tuyến. Tôi cam kết thông báo cho BIDV sau khi phát sinh bất kỳ thay đổi nào về thông tin của tôi tại BIDV. kênh giao dịch cung cấp. Tôi đồng ý và xác nhận chữ ký và đầy đủ tên của tôi trong hai ô bên dưới là chữ ký mẫu cho các giao dịch  được tạo từ tài khoản của tôi tại BIDV, thay thế chữ ký đã đăng ký của tôi (nếu có)." />
+  <item key="IDS_TermsAndConditionsTwo" value="2. Tôi đã đọc, hiểu và cam kết tuân thủ với BIDV chính sách và pháp luật của Việt Nam trong việc mở, quản lý, sử dụng tài khoản bao gồm thực hiện các giao dịch trên tài khoản của tôi và các dịch vụ đã đăng ký. Tôi chịu trách nhiệm hoàn toàn cho việc cập nhật mọi thay đổi của Điều khoản chung và điều kiện kèm theo Thỏa thuận này trên trang web www.bidv.com.vn và / hoặc các kênh khác của BIDV." />
+  <item key="IDS_NO" value="Không" />
+  <item key="IDS_ServiceInfomation" value="Danh mục dịch vụ ngân hàng trực tuyến" />
+  <item key="IDS_RegisterOnline" value="Quý khách có muốn đăng ký dịch vụ ngân hàng điện tử của BIDV không?" />
+  <item key="IDS_BSMS" value="BSMS" />
+  <item key="IDS_Bankplus" value="Bankplus" />
+  <item key="IDS_VNtoUP" value="VnTopup" />
+  <item key="IDS_CO_TermsAndCon" value="Tôi đã đọc và đồng ý với các điều khoản" />
+  <item key="IDS_OnlineConfirm1" value="1. Sau khi đăng ký dịch vụ, khách hàng có thể thực hiện giao dịch chuyển tiền và thanh toán dễ dàng với BIDV Online mà không cần phải đến chi nhánh, vui lòng đọc kỹ các điều khoản và điều kiện trước khi đăng ký." />
+  <item key="IDS_OnlineConfirm2" value="2. Trong quá trình đăng ký, vui lòng không cung cấp thông tin cá nhân, mật khẩu hoặc mã xác thực OTP cho bất kỳ ai để đảm bảo an ninh và bảo mật." />
+  <item key="IDS_BSMS_Features" value="Tính năng BSMS" />
+  <item key="IDS_CO_BSMSDescribe01" value="- Thông báo giao dịch Tín dụng / Nợ trên tài khoản hiện tại / tài khoản tiết kiệm." />
+  <item key="IDS_CO_BSMSDescribe02" value="- Thông báo SMS trong chế độ ngủ đêm của hệ thống Corebanking." />
+  <item key="IDS_CO_BSMSDescribe03" value="- Chúc mừng sinh nhật, tin nhắn ngày lễ." />
+  <item key="IDS_CO_BSMSDescribe04" value="- Thông tin khác: tỷ giá, thông tin về khoản vay => vui lòng đến ngân hàng để đăng ký dịch vụ." />
+  <item key="IDS_CO_ChangingAccount" value="Thay đổi tài khoản" />
+  <item key="IDS_NewTodayAccount" value="Tài khoản mở mới hôm nay" />
+  <item key="IDS_CO_ForBSMSAccount" value="Tài khoản đăng ký dịch vụ BSMS" />
+  <item key="IDS_CO_SelectService" value="Xin hãy lựa chọn dịch vụ:" />
+  <item key="IDS_CO_VIETTEL" value="VIETTEL" />
+  <item key="IDS_CO_VINAPHONE" value="VINAPHONE" />
+  <item key="IDS_CO_MOBIFONE" value="MOBIFONE" />
+  <item key="IDS_CO_GMOBILE" value="GMOBILE" />
+  <item key="IDS_CO_VIETNAMOBILE" value="VIETNAMOBILE" />
+  <item key="IDS_CO_OnlineFeatures" value="Tính năng BIDV Online" />
+  <item key="IDS_CO_OnlineDescribe01-pre" value="- Mọi lúc, mọi nơi:" />
+  <item key="IDS_CO_OnlineDescribe01" value="Thực hiện giao dịch mọi lúc, mọi nơi qua internet mà không cần đến ngân hàng." />
+  <item key="IDS_CO_OnlineDescribe02-pre" value="- Nhanh chóng:" />
+  <item key="IDS_CO_OnlineDescribe02" value="Chuyển tiền trong lãnh thổ Việt Nam." />
+  <item key="IDS_CO_OnlineDescribe03-pre" value="- An toàn và bảo mật:" />
+  <item key="IDS_CO_OnlineDescribe03" value="Với hệ thống xác thực hai yếu tố." />
+  <item key="IDS_CO_OnlineDescribe04" value="- Khách hàng có thể chọn một trong 2 gói dịch vụ sau:" />
+  <item key="IDS_CO_OnlineDescribe05" value="+ Dịch vụ phi tài chính: cung cấp các chức năng sau: Truy vấn tài khoản, kiểm tra sổ sách, tỷ giá hối đoái và Lãi suất." />
+  <item key="IDS_CO_OnlineDescribe06" value="+ Dịch vụ tài chính: cung cấp các yêu cầu và các giao dịch tài chính khác như chuyển tiền, thanh toán hóa đơn, tiền gửi có kỳ hạn trực tuyến" />
+  <item key="IDS_CO_ServicePackages" value="Gói dịch vụ" />
+  <item key="IDS_CO_FinancialService" value="Dịch vụ tài chính" />
+  <item key="IDS_CO_NoneFinancialService" value="Dịch vụ phi tài chính" />
+  <item key="IDS_userGroup" value="Nhóm khách hàng:" />
+  <item key="IDS_SMS_OTP_CUST" value="Tin nhắn OTP khách hàng" />
+  <item key="IDS_CO_Limit" value="Giới hạn" />
+  <item key="IDS_CO_BasicLimit" value="Hạn mức giao dịch – 100,000,000 VND trên một ngày" />
+  <item key="IDS_AUMethod" value="Phương thức xác thực" />
+  <item key="IDS_SMSOtp1" value="BIDV SMS OTP" />
+  <item key="IDS_AuDetail" value="Giao dịch của quý khách giới hạn 100,000,000 VND trên ngày. Nếu quý khách muốn giao dịch hơn 100,000,000 VND trên ngày, vui lòng tới ngân hàng để đăng ký BIDV Smart OTP." />
+  <item key="IDS_CO_ReceiveOPT" value="Số điện thoại nhận OTP" />
+  <item key="IDS_CO_SmartBankingFeatures" value="Tính năng SmartBanking" />
+  <item key="IDS_CO_SmartDescribe01" value="Một ứng dụng di động ngân hàng thông minh của BIDV hỗ trợ khách hàng mọi lúc, mọi nơi." />
+  <item key="IDS_CO_SmartDescribe02" value="- Cài đặt dễ dàng và miễn phí." />
+  <item key="IDS_CO_SmartDescribe03" value="- Quản lý tài khoản của quý khách mọi lúc, mọi nơi." />
+  <item key="IDS_CO_SmartDescribe04" value="- Giao dịch nhanh chóng." />
+  <item key="IDS_CO_VnTopupFeatures" value="Tính năng VnTopup" />
+  <item key="IDS_CO_VnTopupDescribe01" value="- Nạp tiền vào tài khoản điện thoại trả trước và trả sau trên ATM hoặc qua SMS." />
+  <item key="IDS_CO_VnTopupDescribe02" value="- Mua mã thẻ trả trước qua SMS." />
+  <item key="IDS_CO_VnTopupDescribe03" value="- Cho phép khách hàng nạp tiền, mua mã thẻ cho mình hoặc người khác." />
+  <item key="IDS_CO_TransactionAccount" value="Tài khoản giao dịch" />
+  <item key="IDS_CO_PlaceBirth" value="Nơi sinh:" />
+  <item key="IDS_ethnic" value="Dân tộc:" />
+  <item key="IDS_Resident" value="Cư dân" />
+  <item key="IDS_TelecomProvider" value="Nhà cung cấp viễn thông" />
+  <item key="IDS_CO_IssuedDate" value="Ngày cấp:" />
+  <item key="IDS_ExpiryOfIssue" value="Ngày hết hạn" />
+  <item key="IDS_IssuedBy" value="Nơi cấp:" />
+  <item key="IDS_PermantAddress" value="Địa chỉ thường trú" />
+  <item key="IDS_Email" value="Email" />
+  <item key="IDS_CO_Mobile1" value="Số điện thoại 1:" />
+  <item key="IDS_CO_MobileSecondary" value="Số điện thoại 2:" />
+  <item key="IDS_Occupation" value="Nghề nghiệp" />
+  <item key="IDS_JobTitle" value="Chức vụ:" />
+  <item key="IDS_CO_TransactionErroForeigner" value="Quý khách là người nước ngoài." />
+  <item key="IDS_CO_TransactionErroNonResident" value="Quý khách là người không cư trú." />
+  <item key="IDS_CO_taxReport" value="Đạo luật tuân thủ thuế đối với tài khoản ở nước ngoài của Hoa Kỳ" />
+  <item key="IDS_CO_taxReport1" value="Đối tượng chịu thuế thu nhập của Mỹ cần có mẫu đơn W9" />
+  <item key="IDS_CO_notObli1" value="Không phải đối tượng chịu thuế thu nhập của Mỹ" />
+  <item key="IDS_CO_none" value="Không phải các lựa chọn trên" />
+  <item key="IDS_CO_IncomeTaxUS" value="Quý khách có phải chịu thuế thu nhập ở Mỹ không?" />
+  <item key="IDS_CO_TrusteeForForeign" value="Quý khách có là người nhận ủy thác của quỹ hoặc đối tác nước ngoài không?" />
+  <item key="IDS_CO_TransactionErroTrustee" value="Quý khách là người nhận uỷ thác của quỹ hoặc đối tác nước ngoài." />
+  <item key="IDS_CO_TransactionDuplicatePhoneOrName" value="Quý khách có thông tin tên và số điện thoại trùng với khách hàng khác." />
+  <item key="IDS_NotRegisterFace" value="Quý khách chưa đăng ký khuôn mặt và tĩnh mạch ngón tay. Vui lòng đăng ký!" />
+  <item key="IDS_GotoRegister" value="Đăng ký ngay" />
+  <item key="IDS_Welcome" value="Xin chào " />
+  <item key="IDS_CO_AlreadyHaveAcc" value="Quý khách đã có thông tin khách hàng tại BIDV" />
+  <item key="IDS_CO_WantOpenNewAccount" value="Quý khách có muốn mở một tài khoản bổ sung?" />
+  <item key="IDS_CO_TransactionErroStatus" value="Tài khoản của quý khách không hợp lệ." />
+  <item key="IDS_CreatCifSuccessful" value="Chúc mừng! Mã số khách hàng của quý khách được tạo thành công!" />
+  <item key="IDS_CO_AccInfo" value="Thông tin khách hàng" />
+  <item key="IDS_CO_IDPassportNo1" value="Số giấy tờ tùy thân/ Hộ chiếu:" />
+  <item key="IDS_CustomerProfilesNotMatch" value="Hồ sơ cá nhân của quý khách không khớp với dữ liệu đã đăng ký tại BIDV!" />
+  <item key="IDS_FingerveinConnectionFailed" value="Kết nối không thành công. Vui lòng chọn phương thức khác." />
+  <item key="IDS_AccountDesc" value="Tài khoản của quý khách là" />
+  <item key="IDS_DepositOrNot" value="Quý khách có muốn gửi tiền không?" />
+  <item key="IDS_Button_Later" value="Để sau" />
+  <item key="IDS_FingerveinInvalid" value="Tĩnh mạch ngón tay của quý khách không hợp lệ." />
+  <item key="IDS_CO_TransactionErroUnder15" value="Quý khách dưới 15 tuổi." />
+  <item key="IDS_YourFaceDifferenceIDCard" value="Khuôn mặt của quý khách khác với hình ảnh khuôn mặt trên Giấy tờ tuỳ thân." />
+  <item key="IDS_OTPHasSent" value="Tin nhắn OTP đã được gửi" />
+  <item key="ids_keyin_accAndpwd_tip1" value="Tên người dùng hoặc mật khẩu sai, quý khách có " />
+  <item key="ids_keyin_accAndpwd_tip2" value="cố gắng còn lại" />
+  <item key="ids_keyin_accAndpwd_tip3" value="Tên người dùng hoặc mật khẩu trống, vui lòng nhập" />
+  <item key="IDS_Vietnam" value="Việt Nam" />
+  <item key="IDS_Foreigner" value="Nước ngoài" />
+  <item key="IDS_Gender" value="Giới tính" />
+  <item key="IDS_withdrawlFee" value="Phí rút tiền" />
+  <item key="IDS_receiptPrintFee" value="Phí in biên lai giao dịch" />
+  <item key="IDS_priceIncludeVAT" value="VND (đã bao gồm VAT)"/>
+  <item key="IDS_success" value="sự thành công"/>
+  <item key="IDS_putCashWarning" value="Trước khi chèn tiền mặt, vui lòng kiểm tra và xóa đối tượng khác không phải là tiền giấy STM. hỗ trợ, đó là:" />
+
+	<!--
+		author: Louis
+	-->
+	<item key="IDS_InvalidExpireDate" value="Định dạng ngày hết hạn không đúng" />
+	<item key="IDS_InvalidIssueDate" value="Định dạng ngày cấp không đúng" />
+	<item key="IDS_InvalidIssueDate1" value="Ngày cấp không thể muộn hơn ngày hôm nay" />
+	<item key="IDS_InvalidIssueDate2" value="CMND cấp cách đây hơn 15 năm không thể thực hiện được giao dịch" />
+	<item key="IDS_IssueDateEmpty" value="Ngày cấp không được để trống" />
+	<item key="IDS_InvalidDOB" value="Định dạng ngày sinh không đúng" />
+	<item key="IDS_InvalidDOB1" value="Ngày sinh không thể muộn hơn ngày cấp CMND" />
+	<item key="IDS_InvalidDOB2" value="Quý khách không thể mở tài khoản thanh toán do chưa đủ 15 tuổi" />
+	<item key="IDS_InvalidDateFormat" value="Định dạng ngày không đúng" />
+	<item key="IDS_InvalidDOBEmpty" value="Ngày sinh không được để trống" />
+	<item key="IDS_InvalidIDNumber" value="Sai định dạng số CMND/Hộ chiếu" />
+	<item key="IDS_InvalidIDNumberEmpty" value="Số CMND/Hộ chiếu không được để trống" />
+	<item key="IDS_InvalidName" value="Định dạng tên không đúng" />
+	<item key="IDS_InvalidNameEmpty" value="Tên không được để trống" />
+	<item key="IDS_InvalidACNumber" value="Định dạng tên không đúng" />
+	<item key="IDS_InvalidACNumberEmpty" value="Định dạng số Tài khoản không hợp lệ" />
+	<item key="IDS_InvalidGender" value="Định dạng giới tính không đúng" />
+	<item key="IDS_InvalidGenderEmpty" value="Giới tính không được để trống" />
+	<item key="IDS_InvalidAddress" value="Định dạnh địa chỉ không đúng" />
+	<item key="IDS_InvalidAddressEmpty" value="Địa chỉ không được để trống" />
+	<item key="IDS_InvalidEmail" value="Định dạng địa chỉ email không đúng" />
+	<item key="IDS_InvalidEmailEmpty" value="Email không được để trống" />
+	<item key="IDS_InvalidIssuePlace" value="Định dạng nơi cấp CMND không đúng" />
+	<item key="IDS_InvalidIssuePlaceEmpty" value="Nơi cấp CMND không được để trống" />
+	<item key="IDS_InvalidPhoneNo" value="Định dạng số điện thoại không đúng" />
+	<item key="IDS_InvalidPhoneNoEmpty" value="Số điện thoại không được để trống" />
+	<item key="IDS_InvalidSavCity" value="Thành phố không được để trống" />
+	<item key="IDS_InvalidSavCityBranch" value="Chi nhánh không được để trống" />
+
+	<!-- for atm card
+	3001,3002,3003,3005,3006,3010,3012,3013,3014,3015,3016,3017,3018,3019,3020,3021,3022,3023,3024,3025,3026,3027,3028,3029,3030,3033,3036
+	3037,3038,3039,3040,3041,3042,3043,3126,3128,3202,3300,3301,3402,3403,3501,3504,3506,3709,3801,3809,3867
+ -->
+	<item key="IDS_ERR_CODE_3001" value="Khóa giao dịch không hợp lệ"/>
+	<item key="IDS_ERR_CODE_3002" value="Quý khách nhập sai mật khẩu.| Vui lòng thử lại"/>
+	<item key="IDS_ERR_CODE_3003" value="Quý khách đã nhập sai PIN quá số lần cho phép."/>
+	<item key="IDS_ERR_CODE_3005" value="Thẻ của quý khách đã hết hạn.| Quý khách vui lòng liên hệ | ngân hàng phát hành thẻ để đổi thẻ."/>
+	<item key="IDS_ERR_CODE_3006" value="Thẻ của quý khách tạm thời bị khóa. | Quý khách vui lòng liên hệ với Ngân hàng."/>
+	<item key="IDS_ERR_CODE_3010" value="Quý khách đã nhập tài khoản sai. | Hoặc Ngân hàng không đáp ứng dịch vụ cho thẻ này."/>
+	<item key="IDS_ERR_CODE_3012" value=""/>
+	<item key="IDS_ERR_CODE_3013" value="Thẻ của quý khách tạm thời bị khóa. | Quý khách vui lòng liên hệ với Ngân hàng."/>
+	<item key="IDS_ERR_CODE_3014" value="Xin lỗi quý khách, giao dịch không thành công do nhà cung cấp không sẵn sàng. | Vui lòng thử lại sau."/>
+	<item key="IDS_ERR_CODE_3015" value="Xin lỗi quý khách, giao dịch không thành công. | Vui lòng thử lại sau."/>
+	<item key="IDS_ERR_CODE_3016" value=""/>
+	<item key="IDS_ERR_CODE_3017" value=""/>
+	<item key="IDS_ERR_CODE_3018" value=""/>
+	<item key="IDS_ERR_CODE_3019" value="Thẻ chưa được kích hoạt."/>
+	<item key="IDS_ERR_CODE_3020" value=""/>
+	<item key="IDS_ERR_CODE_3021" value=""/>
+	<item key="IDS_ERR_CODE_3022" value=""/>
+	<item key="IDS_ERR_CODE_3023" value=""/>
+	<item key="IDS_ERR_CODE_3024" value=""/>
+	<item key="IDS_ERR_CODE_3025" value=""/>
+	<item key="IDS_ERR_CODE_3026" value="Tài khoản bị đóng băng"/>
+	<item key="IDS_ERR_CODE_3027" value=""/>
+	<item key="IDS_ERR_CODE_3028" value=""/>
+	<item key="IDS_ERR_CODE_3029" value="Số tiền quý khách yêu cầu nhỏ hơn hạn mức giao dịch tối thiểu một lần."/>
+	<item key="IDS_ERR_CODE_3030" value="Tài khoản bị đóng băng"/>
+	<item key="IDS_ERR_CODE_3033" value=""/>
+	<item key="IDS_ERR_CODE_3036" value=""/>
+	<item key="IDS_ERR_CODE_3037" value=""/>
+	<item key="IDS_ERR_CODE_3038" value=""/>
+	<item key="IDS_ERR_CODE_3039" value=""/>
+	<item key="IDS_ERR_CODE_3040" value=""/>
+	<item key="IDS_ERR_CODE_3041" value=""/>
+	<item key="IDS_ERR_CODE_3042" value=""/>
+	<item key="IDS_ERR_CODE_3043" value="Tài khoản của quý khách không đủ tiền để thực hiện giao dịch."/>
+	<item key="IDS_ERR_CODE_3126" value=""/>
+	<item key="IDS_ERR_CODE_3128" value=""/>
+	<item key="IDS_ERR_CODE_3202" value=""/>
+	<item key="IDS_ERR_CODE_3200" value=""/>
+	<item key="IDS_ERR_CODE_3301" value=""/>
+	<item key="IDS_ERR_CODE_3402" value="Thẻ của quý khách không hợp lệ hoặc tài khoản của quý khách đã bị đóng. | Quý khách vui lòng liên hệ Ngân hàng để hỗ trợ."/>
+	<item key="IDS_ERR_CODE_3403" value="Số tiền quý khách yêu cầu vượt quá hạn mức thẻ."/>
+	<item key="IDS_ERR_CODE_3501" value=""/>
+	<item key="IDS_ERR_CODE_3504" value="Số tiền quý khách cần rút vượt quá hạn mức giao dịch tối đa một ngày."/>
+	<item key="IDS_ERR_CODE_3506" value=""/>
+	<item key="IDS_ERR_CODE_3709" value=""/>
+	<item key="IDS_ERR_CODE_3801" value=""/>
+	<item key="IDS_ERR_CODE_3809" value=""/>
+	<item key="IDS_ERR_CODE_3867" value=""/>
+	<item key="IDS_ERR_CODE_4001" value="Quý khách đã nhập sai PIN quá số lần cho phép."/>
+	<item key="IDS_ERR_CODE_OTHER" value="Xin lỗi, có lỗi trong quá trình giao dịch. | Vui lòng nhận vé xếp hàng và đi đến chi nhánh"/>
+
+</config>

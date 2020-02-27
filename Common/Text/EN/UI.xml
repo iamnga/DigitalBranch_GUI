@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+
+    <!-- ========BidvCashDepositToCA========== -->
+    <item key="IDS_Button_Exit" value="Exit" />
+    <item key="IDS_CO_LetChoosMethodBelow" value="Please choose one of methods as below!" />
+    <item key="IDS_DepositMyAccount" value="Deposit to my account" />
+    <item key="IDS_CashAndDeposit" value="Cash and deposit to my account" />
+    <item key="IDS_DepositAnotherAccount" value="Deposit to another account" />
+    <item key="IDS_AreYouSureToExit" value="Are you sure you want to exit?" />
+    <item key="IDS_Yes" value="Yes" />
+    <item key="IDS_No" value="No" />
+    <item key="IDS_OnlyDepositIndividualAccount" value="STM is only applicable to depositing to individual customers' accounts!" />
+    <item key="IDS_PleaseEnterDepositAccountNumber" value="Please input you deposit Account Number at BIDV" />
+    <item key="IDS_AccountNumber" value="Account Number:" />
+    <item key="IDS_Button_Confirm" value="Confirm" />
+    <item key="IDS_CO_STMNotSupportBusinessCus" value="STM does not support for business customer." />
+    <item key="IDS_CO_GotoBank" value="Please go to the bank to continue transaction!" />
+    <item key="IDS_Confirm1" value="Please confirm the information" />
+    <item key="IDS_MyAccount" value="My account:" />
+    <item key="IDS_receivemoneyAmount" value="Receive Amount" />
+    <item key="IDS_depositToBeneAcc" value="Deposit To Beneficiary Account" />
+    <item key="IDS_BeneficiaryAccount" value="Beneficiary Account" />
+    <item key="IDS_depositCA" value="Deposit To Depositor's Account" />
+    <item key="IDS_DepositorAcc" value="Depositor's account" />
+    <item key="IDS_ReturnCash" value="Return Cash:" />
+    <item key="IDS_Confirm" value="Confirm" />
+    <item key="IDS_AccName" value="Account Name:" />
+    <item key="IDS_AccNo" value="Account number:" />
+    <item key="IDS_DepositAmount" value="Deposit amount:" />
+    <item key="IDS_Details" value="Details:" />
+    <item key="IDS_Cancel" value="Cancel" />
+    <item key="IDS_DepositSuccess1" value="Your cash deposit transaction has been successfully!" />
+    <item key="IDS_CO_Name" value="Name:" />
+    <item key="IDS_CO_CIF" value="CIF" />
+    <item key="IDS_OK" value="OK" />
+    <item key="IDS_noaccount_support10thou" value="Because you don't have current account at BIDV, STM can support deposit to another account value is multiples of 10.000VND" />
+    <item key="IDS_Button_Edit" value="Edit" />
+	<item key="IDS_Button_Edit_Amount" value="Edit amount you want to pay" />
+    <item key="IDS_OpenAccount" value="Open new account" />
+    <item key="IDS_Button_Cancel" value="Cancel" />
+    <item key="IDS_Button_Cancel_Transaction" value="Cancel transaction" />
+    <item key="IDS_keyinDepositAmount" value="Please keyin your deposit amount!" />
+    <item key="IDS_CO_SysIsProcessing" value="System is processing! Please wait in a minute!" />
+    <item key="IDS_YourAccountInvalid" value="Your account status is invalid." />
+    <item key="IDS_lessthan200notes" value="Because you don't have current account at BIDV, STM can support deposit to another account with ≤ 200 notes." />
+    <item key="IDS_gotobank" value="Please receive your money and go to the bank." />
+    <item key="IDS_stm_full" value="STM is full. Please receive your money at the last time." />
+    <item key="IDS_remain_amount_1" value="The remaining amount is" />
+    <item key="IDS_remain_amount_2" value="VND will be deposit to your account." />
+    <item key="IDS_NotSupportBusiness" value="STM is not supported for your business." />
+    <item key="IDS_GreaterCash" value="The total amount is greater than the total amount you need to pay." />
+    <item key="IDS_ReceiveExceedCash" value="Please receive the excess money by cash!" />
+    <item key="IDS_Continue" value="Continue" />
+
+
+    <!-- ========BidvCashWithdrawfromCA========== -->
+    <item key="IDS_PleasePayWithdrawlFee" value="Please pay the withdrawal fee and transaction receipt printing fee" />
+    <item key="IDS_withdrawlFee" value="Withdrawal Fee" />
+    <item key="IDS_receiptPrintFee" value="Transaction receipt printing fee" />
+    <item key="IDS_priceIncludeVAT" value=" VND(including VAT)"/>
+    <item key="IDS_Button_Back" value="Back" />
+    <item key="IDS_AmountEnteredInvalid" value="The amount you entered is invalid." />
+    <item key="IDS_PleaseEnterAmount" value="Please enter the amount again!" />
+    <item key="IDS_TransactionOverDailyLimit" value="Your transaction is over daily limit." />
+    <item key="IDS_PleaseReinputAmount" value="Please re-input the amount or try again next day!" />
+    <item key="IDS_TransactionOver20" value="Your transaction is over 20 times per day." />
+    <item key="IDS_PleaseTryAgainNextDay" value="Please try again next day or go to the bank!" />
+    <item key="IDS_TransferYourAmountOverLimit1" value="Sorry, your amount is over limitation per transaction." />
+    <item key="IDS_TransferAmountisUnder1" value="Transfer amount is under" />
+    <item key="IDS_TransferAmountisUnder2" value="VND per transction." />
+    <item key="IDS_StartedQRAgentFailed" value="Genegrate QR code is failed!" />
+    <item key="IDS_ScanQRFailed" value="Scan QR code failed" />
+    <item key="IDS_PleaseHandTheSigned" value="Please hand the signed document to our representative." />
+    <item key="IDS_SystemDisconnected" value="Sorry, system has been disconnected." />
+    <item key="IDS_CantConnectTeller" value="Could not connect to teller." />
+    <item key="IDS_TransactionCancelled" value="Transaction is now cancelled!" />
+
+
+    <!-- ========BIDVCOM========== -->
+    <item key="IDS_success" value="success" />
+    <item key="IDS_Rate_Stars" value="Please rate your experience today!" />
+    <item key="IDS_putCashWarning" value="Before insert cash, please check and remove others object that are not banknotes STM. support, which is:" />
+    <item key="ids_keyin_accAndpwd_tip1" value="username or password is wrong, you have " />
+    <item key="ids_keyin_accAndpwd_tip2" value="attemp remaining" />
+    <item key="ids_keyin_accAndpwd_tip3" value="username or password is empty, please input" />
+    <item key="IDS_CanNotFoundCIF" value="Can not found CIF!" />
+    <item key="IDS_notHaveAccount" value="You don't have account in BIDV." />
+    <item key="IDS_SelectMethodContinue" value="Please select method to continue:" />
+    <item key="IDS_ReEnterRecognitionInfo" value="Re-enter recognition information" />
+    <item key="IDS_CO_ChooseOtherMethod" value="Choose another method" />
+    <item key="IDS_CO_CannotGetYourProfiles" value="Sorry, we can not find your profiles!" />
+    <item key="IDS_CO_NewRegistration" value="New registration" />
+    <item key="IDS_Connect_Teller" value="Connect to teller" />
+    <item key="IDS_FaceNotMatch" value="Your face image does not match registered at BIDV!" />
+    <item key="IDS_ExcessAmount" value="STM received amount that more than amount you key in and can return" />
+    <item key="IDS_exceed_PLCMoneyBack" value="Please choose method of getting money back:" />
+    <item key="IDS_excessReturnCash" value="Please choose number of cash to get money back:" />
+    <item key="IDS_dont_money_return" value="STM received money that is more than amount you key in and can not return by cash." />
+    <item key="IDS_exceed_money1" value="STM received amount that more than amount you key in and can return" />
+    <item key="IDS_exceed_money2" value="VND. Please choose method of getting money back:" />
+    <item key="IDS_DepositExceedMoneyToAccount" value="Deposit exceed money to account" />
+    <item key="IDS_DepositToSelectAcc" value="Deposit to selected account" />
+    <item key="IDS_DepositToCurrentAcc" value="Deposit to current account" />
+    <item key="IDS_LessAmount_choose" value="The amount you put in is less than the amount you want to deposit. But now STM can support maximum 200 notes per transaction. Please choose:" />
+    <item key="IDS_LessAmount" value="The amount you put in is less than the amount you want to deposit." />
+    <item key="IDS_PLSubmitAmount" value="Please submit the missing amount as" />
+    <item key="IDS_Deposit" value="Deposit" />
+    <item key="IDS_ToSelectedAccount" value="to selected account" />
+    <item key="IDS_Menu_OpenCA" value="Open Account" />
+    <item key="IDS_Menu_Deposit1" value="Cash Deposit to | Current Account" />
+    <item key="IDS_WithdrawlCurrentAccount" value="Cash Withdrawal from  | Current Account" />
+    <item key="IDS_EnrollFaceIDandFingervein" value="Enroll FaceID | and Fingervein" />
+    <item key="IDS_Smartbanking" value="BIDV Smartbanking" />
+    <item key="IDS_BIDVOnline" value="BIDV Online" />
+    <item key="IDS_IDcardPassport" value="ID Card / Passport" />
+    <item key="IDS_NotAccount" value="Your phone in more than one CIF." />
+    <item key="IDS_ChooseOtherMethodOrtoBank" value="Please choose another method to recognize or go to the bank" />
+    <item key="IDS_CO_LetChoosReMethod" value="Please choose one of the recognition methods as below!" />
+    <item key="IDS_CO_FaceID" value="Face ID" />
+    <item key="IDS_CO_ID1" value="Identity Papers" />
+    <item key="IDS_CO_PhoneNo" value="Phone Number" />
+    <item key="IDS_CO_currentACC2" value="Current Account" />
+    <item key="IDS_ATMCard" value="ATM Card" />
+    <item key="IDS_TransactionInfomationError" value="Transaction infomation error - D code." />
+    <item key="IDS_WhatKindOfPaper" value="Which kind of Identity Papers do you have?" />
+    <item key="IDS_CO_OldIDCard" value="Old ID Card" />
+    <item key="IDS_New_ID_Number" value="New ID Card" />
+    <item key="IDS_CO_citizenIdCard" value="Citizen ID Card" />
+    <item key="IDS_CO_Passport" value="Passport" />
+    <item key="IDS_CO_Diplomatic_Official_Passport" value="Diplomatic/Official Passport" />
+    <item key="IDS_PleaseEnterYourPin" value="Please enter your PIN!" />
+    <item key="IDS_YourPinIsPrivate" value="Your PIN is private – please don't let others see what you're keying in." />
+    <item key="IDS_PinIsInvalid0" value="You have entered the wrong password more than 3 times, Please receive your card back!" />
+    <item key="IDS_PinIsInvalid1" value="PIN is invalid - please try again! 0 attempt remaining." />
+    <item key="IDS_PinIsInvalid2" value="PIN is invalid - please try again! 1 attempt remaining." />
+    <item key="IDS_PinIsInvalid3" value="PIN is invalid - please try again! 2 attempt remaining." />
+    <item key="IDS_ProCurrentAccountNo" value="Please input you current Account Number at BIDV" />
+    <item key="IDS_AccountNo" value="Current Account Number:" />
+    <item key="IDS_InputCIFNo" value="Please input your CIF Number at BIDV" />
+    <item key="IDS_CIFNo" value="CIF Number:" />
+    <item key="IDS_InputIDCardNo" value="Please input your ID Card Number at BIDV" />
+    <item key="IDS_IDCardNo" value="ID Card Number:" />
+    <item key="IDS_InputUserNameNo" value="Please input your username and password of ebanking service" />
+    <item key="IDS_UserNameNo" value="User Name:" />
+    <item key="IDS_PasswordNo" value="Password:" />
+    <item key="IDS_AlreadySent" value="We've already sent OTP code for you via phone!" />
+    <item key="IDS_PleaseKeyInOTP" value="Please keyin OTP code!" />
+    <item key="IDS_OTPcode0" value="You have entered the OTP code more than 3 times" />
+    <item key="IDS_PleaseConnectTeller" value="Please connect to teller to be supported" />
+    <item key="IDS_OTPcode1" value="OTP code is invalid - please try again! 1 attempt remaining." />
+    <item key="IDS_OTPcode2" value="OTP code is invalid - please try again! 2 attempt remaining." />
+    <item key="IDS_OTPcode3" value="OTP code is invalid - please try again! 3 attempt remaining." />
+    <item key="IDS_notReceive" value="You have not yet received OTP message?" />
+    <item key="IDS_NewOtp" value="Send new OTP!" />
+    <item key="IDS_InputPhoneNo" value="Please input your Phone Number at BIDV" />
+    <item key="IDS_PhoneNo" value="Phone Number:" />
+    <item key="IDS_DisplayName" value="Thank you for using service at BIDV, see you again! |Please rate your experience today!" />
+    <item key="IDS_PleaseSelectAmount" value="Please select amount" />
+    <item key="IDS_AvailableNotes" value="Available Notes" />
+    <item key="IDS_minAcount" value="The minium amount is 50,000 VND" />
+    <item key="IDS_AmountMultipleOf" value="The transaction amount is multiple of" />
+    <item key="IDS_KeyInAmount" value="Key in amount" />
+    <item key="IDS_PleaseScanFingervein" value="Please scan your fingervein!" />
+    <item key="IDS_PleaseScan3Times" value="Please scan your fingervein 3 times! |Use one finger only!" />
+    <item key="IDS_RequiredFingerPrint" value="We are required to take your fingerprint." />
+    <item key="IDS_FullName" value="Full Name" />
+    <item key="IDS_PleaseScanFingerprintScanner" value="Please scan your fingervein in the fingerprint scanner." />
+    <item key="IDS_FingerprintNotMatch" value="Sorry, Your fingerprint doesn't match any fingerprint scans, please try again." />
+    <item key="IDS_HaveAttempt1" value="You have" />
+    <item key="IDS_HaveAttempt2" value="attempts left" />
+    <item key="IDS_PleaseScan4Times" value="Please scan your fingervein 3 times! |Use one finger only!" />
+    <item key="IDS_AnotherTrans" value="Do you want to make another transaction?" />
+    <item key="IDS_CO_PrintTicket" value="Do you want to print receipt?" />
+    <item key="IDS_SignNotMatch" value="Your signature does not match." />
+    <item key="IDS_WouldYouLikeToSign" value="Would you like to reprint and sign it again ?" />
+    <item key="IDS_Account_Cannot_Transition" value="This account can not transaction at STM." />
+    <item key="IDS_CantConnectAgent" value="Cannot connect to teller." />
+    <item key="IDS_GTBranchTransactionCancelled" value="The transaction has been cancelled!" />
+    <item key="IDS_SA_CaptureDoc" value="Please capture the document!" />
+    <item key="IDS_SA_PleaseConfirmImageScannedCorrect" value="Please check the signed document and confirm!" />
+    <item key="IDS_CheckInfo" value="Please check customer's information!" />
+    <item key="IDS_CO_Full_Name" value="Full Name:" />
+    <item key="IDS_CO_IDPassportNoOLB" value="ID/Passport No:" />
+    <item key="IDS_PlaceOfIssue" value="Issue Place:" />
+    <item key="IDS_IssueDate" value="Issue Date:" />
+    <item key="IDS_ExppiryDate" value="Expiry Date:" />
+    <item key="IDS_DateOfBirth" value="Date of Birth:" />
+    <item key="IDS_PlaceOfBirth" value="Place of Birth:" />
+    <item key="IDS_Address" value="Address:" />
+    <item key="IDS_CO_ConnectAgent" value="Connecting teller! Please wait in a minute!" />
+    <item key="IDS_CO_AgentBusy" value="Sorry, all of our agents are busy! Please try again!" />
+    <item key="IDS_Button_Recall" value="Recall" />
+    <item key="IDS_BirthdayInformationWrong" value="Your date of birth is incorrect with the system at BIDV." />
+    <item key="IDS_DepositMoreCash" value="The amount you put in is less than the amount you want to deposit!" />
+    <item key="IDS_MissingAmount" value="Please submit the missing amount as:" />
+    <item key="IDS_ReceiveMoney" value="The STM received amount (keyin amount)" />
+    <item key="IDS_OtherAccountNumber" value="Other Account Number" />
+    <item key="IDS_receiveMoney" value="Please receive your money!" />
+    <item key="IDS_After30SecondsRetractMoney" value="After 30 seconds, customers do not take money: STM retract money!" />
+    <item key="IDS_ThankYouRemoveCard2" value="Please take the card before take the money!" />
+    <item key="IDS_After30SecondsRetractCard" value="After 30 seconds, customers do not receive the card: STM retract card!" />
+    <item key="IDS_YourCardHasExpired" value="Your ID card / Passport has expired." />
+    <item key="IDS_ScanFaceAgain" value="Scan face again" />
+    <item key="IDS_FaceChangeFail" value="Sorry, your face changes unsuccessfully, please try again!" />
+    <item key="IDS_FaceMachineBroken" value="The face collecting device temporarily fails." />
+    <item key="IDS_FaceChangeSuccess" value="Your Face has been changed successfully!" />
+    <item key="IDS_FingerveinDeviceFails" value="The device temporarily collapsed fingervein." />
+	<item key="IDS_PleaseRegisterFingervein" value="Please register fingervein later!" />
+    <item key="IDS_CO_TakeBackYourMoney" value="Please take back your money!" />
+    <item key="IDS_IDCardInvalid" value="ID Card is not valid because" />
+    <item key="IDS_IDNumberInformationWrong" value="Your ID number is incorrect with the system at BIDV." />
+    <item key="IDS_CO_PleaseInsertYourCardIntoCS_ATMCard" value="Please insert your atm card into Card slot!" />
+    <item key="IDS_InsertCardCorrectDirection" value="Please insert your atm card in correct direction!" />
+    <item key="IDS_SA_PleaseInsertSDIntoDB" value="Please insert signed document into drop box!" />
+    <item key="IDS_CO_PleaseInsertYourCardIntoCS1" value="Please insert your ID card into Card slot!" />
+    <item key="IDS_CO_PleaseInputMoneyIntoCS" value="Please input money to Cash shutter!" />
+    <item key="IDS_CO_PleaseInsertYourPBIntoSC" value="Please insert your Passport into Scanner!" />
+    <item key="IDS_InvalidSignature" value="Your signature is invalid." />
+    <item key="IDS_CO_WeWillScanYourFace" value="We will scan your face!" />
+    <item key="IDS_CO_PleaseLookCamera1" value="Please look at the dual camera with the red light and move closer to the camera!" />
+    <item key="IDS_IssuedDateInformationWrong" value="Your date of issued is incorrect with the system at BIDV." />
+    <item key="IDS_IncorrectIssuePlace" value="Your Issued place information is wrong." />
+    <item key="IDS_GTBranch" value="Please go to branch to continue transaction!" />
+    <item key="IDS_MinimumAmount" value="The minimum amount to maintain an account is" />
+    <item key="IDS_NameInformationWrong" value="Your name is incorrect with the system at BIDV." />
+    <item key="IDS_noaccount_transaction" value="You don't have account that can transaction at STM." />
+    <item key="IDS_NotSupportChipCard" value="Sorry, the system does not currently support CHIP cards and cards issued by other banks for this transaction." />
+    <item key="IDS_useMagneticOrToBank" value="Please use magnetic card or go to the bank!" />
+    <item key="IDS_YouAreNotRegister" value="You are not registered with finger vein transaction with BIDV." />
+    <item key="IDS_ChooseAnotherMethod" value="Please choose another authentication method!" />
+    <item key="IDS_PinLock" value="Your have enter the wrong PIN more than 3 times!" />
+    <item key="IDS_TakeCard" value="Please take back your card!" />
+    <item key="IDS_PlaceBirthInformationWrong" value="Your place of birth is incorrect with the system at BIDV." />
+    <item key="IDS_CO_PleaseTakeIDCardPassport" value="Please take your ID Card / Passport!" />
+    <item key="IDS_CO_PleaseCheckInfoPD1" value="Please check information in printed document." />
+    <item key="IDS_Sign" value="To confirm, please sign!" />
+    <item key="IDS_ProcessingPleaseWait" value="Processing. Please wait." />
+    <item key="IDS_warning" value="Warning" />
+    <item key="IDS_PleaseRemoveStrangeObjects" value="Please remove strange objects before put money into cash slot." />
+    <item key="IDS_MoreThan200Noitce" value="Maximum 200 notes / transaction." />
+    <item key="IDS_exceedmoney_noreturn" value="The excess money (if have) that STM can't return will be transfer to your account." />
+    <item key="IDS_InputPwd3Times" value="You have entered the wrong password more than 3 times" />
+    <item key="IDS_SA_reInsertSDIntoDB" value="Please re-insert signed document into drop box!" />
+    <item key="IDS_ScanFailed" value="Scaning Fail! Please try again!" />
+    <item key="IDS_CO_PleaseScanDoc" value="Please scan the document!" />
+    <item key="IDS_PutIDCardOnDocScan" value="Please put your ID/Passport on document scan." />
+    <item key="IDS_PleaseSelectAccount" value="Please select one of your accounts!" />
+    <item key="IDS_AccountNumber2" value="Account number" />
+    <item key="IDS_Button_Next" value="Next" />
+    <item key="IDS_PleaseSelectWithdrawlAccount" value="Please select one of your phone number to deposit!" />
+    <item key="IDS_SA_CashAmount" value="Cash Amount" />
+    <item key="IDS_SA_TotalAmount" value="Total Amount:" />
+    <item key="IDS_StmCounting" value="STM is counting, please wait!" />
+    <item key="IDS_CO_StmIsScanning" value="STM is scanning! Please wait in a minute!" />
+    <item key="IDS_ThankYouUsingBIDV" value="Thank you for using the service at BIDV." />
+	<item key="IDS_GoodBye" value="Good bye and see you again!" />
+    <item key="IDS_TransFails" value="Transaction is fail. Please try again later!" />
+    <item key="IDS_CO_TranSuccess" value="Transaction is successful!" />
+    <item key="IDS_CO_TransactionErro" value="Transaction information error - D code!" />
+    <item key="IDS_CurrentlyMachineUnable" value="Currently the machine is unable to print the receipt." />
+    <item key="IDS_DoYouWantToContinue" value="Do you want to continue?" />
+    <item key="IDS_CO_UnSuccessfulScan" value="Unsuccessful scanning. Please try again!" />
+    <item key="IDS_Invalid_Account_Number" value="Invalid account number. Please re-enter!" />
+    <item key="IDS_OTPHasSent" value="The OTP message has been sent" />
+
+
+    <!-- ========BidvEnrollFaceIDandFingervein========== -->
+    <item key="IDS_AllTellerBusy" value="All of our teller are currently busy, the system trying connect." />
+    <item key="IDS_WaitMinute" value="Please wait in a minute." />
+    <item key="IDS_Scanfaceagian" value="Scan FaceID again" />
+    <item key="IDS_ChooseOtherMethods" value="Choose another methods" />
+    <item key="IDS_RegisteredFaceID" value="You registered Face ID." />
+    <item key="IDS_RegisteredFingervein" value="You registered fingervein." />
+    <item key="IDS_RegisteredFaceIDFingervein" value="You already registered Face ID and Fingervein." />
+    <item key="IDS_ChooseOtherTransaction" value="Please choose other transaction!" />
+    <item key="IDS_InputWrongPass3Time" value="You have entered the wrong password more than 3 times," />
+    <item key="IDS_VerifyIDCardPassport" value="Please verify by ID Card/Passport!" />
+    <item key="IDS_InputWrongOtp3Time" value="You have entered the wrong OTP code more than 3 times," />
+    <item key="IDS_PrintingPleaseWait" value="Printing. Please wait." />
+    <item key="IDS_CO_PrintReceiptFailed" value="Print receipt failed!" />
+    <item key="IDS_TakeReceipt" value="Please take your receipt!" />
+
+
+    <!-- ========BidvOpenCIFCA========== -->
+    <item key="IDS_Male" value="Male" />
+    <item key="IDS_Female" value="Female" />
+    <item key="IDS_Vietnam" value="Vietnam" />
+    <item key="IDS_Foreigner" value="Foreigner" />
+    <item key="IDS_DOB" value="Date of Birth" />
+    <item key="IDS_Nationality" value="Nationality" />
+    <item key="IDS_Gender" value="Gender" />
+    <item key="IDS_DateOfIssue" value="Date of Issue" />
+    <item key="IDS_CO_IDPassportNo" value="ID No." />
+    <item key="IDS_CurrentAddress" value="Current Address" />
+    <item key="IDS_Phone" value="Phone Number" />
+    <item key="IDS_CO_CusInformation" value="Customer Information" />
+    <item key="IDS_CO_TermsAndConditions" value="Terms and Conditions" />
+    <item key="IDS_TermsAndConditionsOne" value="1. I here by confirm that the information given above is true and correct. I agree that the Bank can use the phone number, email and personal information which I provided above to verify my identity when I register to use the banking services through the online channels. I commit to inform BIDV after arising any changes of my information at the BIDV transaction channels provided. I agree and certify the signature and full name of mine in two below cells is the specimen signature for transactions made from my account at BIDV, replacing my registered signature (if any)." />
+    <item key="IDS_TermsAndConditionsTwo" value="2. I have read, understood and been committed to comply with BIDV's policies and laws of Vietnam in opening, managing, using account including executing transactions on my account and registered services. I take full responsibility for updating any changes of General terms and conditions attached to this Agreement on the website www.bidv.com.vn and/or the other channels of BIDV" />
+    <item key="IDS_NO" value="No" />
+    <item key="IDS_ServiceInfomation" value="Online Banking Service Information" />
+    <item key="IDS_RegisterOnline" value="Would you like to register BIDV's Online banking services?" />
+    <item key="IDS_BSMS" value="BSMS" />
+    <item key="IDS_Bankplus" value="BIDV Online" />
+    <item key="IDS_VNtoUP" value="VnTopup" />
+    <item key="IDS_CO_TermsAndCon" value="I have read and agreed with Terms and Conditons." />
+    <item key="IDS_OnlineConfirm1" value="1. After registering services, customer can make fund transfer and payment transactions easily with BIDV Online without having to go to the branch, please read carefully the terms and conditions before registering." />
+    <item key="IDS_OnlineConfirm2" value="2. During the registration process, please do not provide personal information, password or OTP authentication code to anyone to ensure security and confidentiality." />
+    <item key="IDS_BSMS_Features" value="BSMS Features" />
+    <item key="IDS_CO_BSMSDescribe01" value="- Notify Credit/Debt transactions on current account/ savings account." />
+    <item key="IDS_CO_BSMSDescribe02" value="- Alert SMS during nightmode of Corebanking system" />
+    <item key="IDS_CO_BSMSDescribe03" value="- Happy birthday, holidays Messages." />
+    <item key="IDS_CO_BSMSDescribe04" value="- Other information: exchange rate, information about loan…=&gt;please come to the Bank to register services." />
+    <item key="IDS_CO_ChangingAccount" value="Changing account:" />
+    <item key="IDS_NewTodayAccount" value="New today account" />
+    <item key="IDS_CO_ForBSMSAccount" value="Account for BSMS service registration:" />
+    <item key="IDS_CO_SelectService" value="Please Select Service:" />
+    <item key="IDS_CO_VIETTEL" value="VIETTEL" />
+    <item key="IDS_CO_VINAPHONE" value="VINAPHONE" />
+    <item key="IDS_CO_MOBIFONE" value="MOBIFONE" />
+    <item key="IDS_CO_GMOBILE" value="GMOBILE" />
+    <item key="IDS_CO_VIETNAMOBILE" value="VIETNAMOBILE" />
+    <item key="IDS_CO_OnlineFeatures" value="BIDV Online Features" />
+    <item key="IDS_CO_OnlineDescribe01-pre" value="- Anytime, anywhere:" />
+    <item key="IDS_CO_OnlineDescribe01" value="Performing transactions anytime, anywhere via internet without going to the bank." />
+    <item key="IDS_CO_OnlineDescribe02-pre" value="- Quick:" />
+    <item key="IDS_CO_OnlineDescribe02" value="Funds transfer within the territory of Vietnam." />
+    <item key="IDS_CO_OnlineDescribe03-pre" value="- Safe and secure:" />
+    <item key="IDS_CO_OnlineDescribe03" value="With two factor authentication system." />
+    <item key="IDS_CO_OnlineDescribe04" value="- Customers can select one of those 2 following service packages:" />
+    <item key="IDS_CO_OnlineDescribe05" value="+ Non-financial services: provides with these functions: Inquiries for accounts, Cheque Book, Foreign exchanges rate, and Interest rate." />
+    <item key="IDS_CO_OnlineDescribe06" value="+ Financial services: provides with inquiries and other financial transactions like fund transfer, Bill payments, online term deposits …" />
+    <item key="IDS_CO_ServicePackages" value="Services Packages:" />
+    <item key="IDS_CO_FinancialService" value="Financial Service" />
+    <item key="IDS_CO_NoneFinancialService" value="None-Financial Service" />
+    <item key="IDS_userGroup" value="Customer Group:" />
+    <item key="IDS_SMS_OTP_CUST" value="SMS OTP customer" />
+    <item key="IDS_CO_Limit" value="Limit:" />
+    <item key="IDS_CO_BasicLimit" value="Basic Limit – 100,000,000VND per day" />
+    <item key="IDS_AUMethod" value="Authentication method:" />
+    <item key="IDS_SMSOtp1" value="BIDV SMS OTP" />
+    <item key="IDS_AuDetail" value="Your transaction limit per day is 100.000.000 vnd. If you want to transaction limit per day more than 100.000.000vnd, Please come to the bank to register BIDV Smart OTP." />
+    <item key="IDS_CO_ReceiveOPT" value="Phone number receive OTP:" />
+    <item key="IDS_CO_SmartBankingFeatures" value="SmartBanking Features" />
+    <item key="IDS_CO_SmartDescribe01" value="A smart mobile banking app that assists customers to bank with BIDV anytime, any where." />
+    <item key="IDS_CO_SmartDescribe02" value="- Easy and free installation." />
+    <item key="IDS_CO_SmartDescribe03" value="- Manage your account anywhere, anytime." />
+    <item key="IDS_CO_SmartDescribe04" value="- Quick banking" />
+    <item key="IDS_CO_VnTopupFeatures" value="VnTopup Features" />
+    <item key="IDS_CO_VnTopupDescribe01" value="- Recharge their prepaid and postpaid phone accounts on ATM or via SMS." />
+    <item key="IDS_CO_VnTopupDescribe02" value="- Purchase prepaid card code via SMS." />
+    <item key="IDS_CO_VnTopupDescribe03" value="- Allows client to top up, purchase card code for themselves or others." />
+    <item key="IDS_CO_TransactionAccount" value="Transaction account:" />
+    <item key="IDS_CO_PlaceBirth" value="Place of birth:" />
+    <item key="IDS_ethnic" value="Ethnic:" />
+    <item key="IDS_Resident" value="Resident" />
+    <item key="IDS_TelecomProvider" value="Telecom Provider:" />
+    <item key="IDS_CO_IssuedDate" value="Issued date:" />
+    <item key="IDS_ExpiryOfIssue" value="Expiry Date:" />
+    <item key="IDS_IssuedBy" value="Issued by:" />
+    <item key="IDS_PermantAddress" value="Permant Address:" />
+    <item key="IDS_Email" value="Email:" />
+    <item key="IDS_CO_Mobile1" value="Phone No 1.:" />
+    <item key="IDS_CO_MobileSecondary" value="Phone No 2.:" />
+    <item key="IDS_Occupation" value="Occupation:" />
+    <item key="IDS_JobTitle" value="Job title:" />
+    <item key="IDS_CO_TransactionErroForeigner" value="You are a foreigner, Please go to the bank to continue transaction!" />
+    <item key="IDS_CO_TransactionErroNonResident" value="You are a non-resident, Please go to the bank to continue transaction!" />
+    <item key="IDS_CO_taxReport" value="Tax report according to the United States' laws - Foreign Account Tax Compliance Act" />
+    <item key="IDS_CO_taxReport1" value="People who are obliged to pay tax under the U.S laws. W9 document needed" />
+    <item key="IDS_CO_notObli1" value="People who are not obliged to pay tax under the U.S laws but have one of the following signs relating to the United States. W8-BEN document needed" />
+    <item key="IDS_CO_none" value="None of the above" />
+    <item key="IDS_CO_IncomeTaxUS" value="Are you subject to income tax in the US?" />
+    <item key="IDS_CO_TrusteeForForeign" value="Are you a trustee for foreign fund or partner?" />
+    <item key="IDS_CO_TransactionErroTrustee" value="You are a trustee for foreign fund or partner." />
+    <item key="IDS_CO_TransactionDuplicatePhoneOrName" value="You have the same name and phone number as other customer." />
+    <item key="IDS_NotRegisterFace" value="You have not registered your face and Fingervein yet. Please register!" />
+    <item key="IDS_GotoRegister" value="Go to register" />
+    <item key="IDS_Welcome" value="Welcome" />
+    <item key="IDS_CO_AlreadyHaveAcc" value="You already have an account at BIDV" />
+    <item key="IDS_CO_WantOpenNewAccount" value="Do you want to open an additional account?" />
+    <item key="IDS_CO_TransactionErroStatus" value="Your account is invalid status." />
+    <item key="IDS_CreatCifSuccessful" value="Congratulation! Your CIF is created successfully!" />
+    <item key="IDS_CO_AccInfo" value="Account information" />
+    <item key="IDS_CO_IDPassportNo1" value="ID/Passport No.:" />
+    <item key="IDS_CustomerProfilesNotMatch" value="Your personal profiles does not match the registered data at BIDV!" />
+    <item key="IDS_FingerveinConnectionFailed" value="Connection is failed. Please choose another method ." />
+    <item key="IDS_AccountDesc" value="Your account is" />
+    <item key="IDS_DepositOrNot" value="Would you like to deposit?" />
+    <item key="IDS_Button_Later" value="Later" />
+    <item key="IDS_FingerveinInvalid" value="Your fingervein is invalid." />
+    <item key="IDS_CO_TransactionErroUnder15" value="You are under 15 years old." />
+    <item key="IDS_YourFaceDifferenceIDCard" value="Your face is difference from your face image on the ID card." />
+	<item key="IDS_InvalidExpireDate" value="Expire date is wrong" />
+    <!--
+    author: Louis
+    -->
+    <item key="IDS_InvalidExpireDate" value="Expire date is incorrect" />
+    <item key="IDS_InvalidIssueDate" value="Issued date is incorrect" />
+    <item key="IDS_InvalidIssueDate1" value="Issued date cannot be later than today" />
+    <item key="IDS_InvalidIssueDate2" value="ID card issued more than 15 years ago could not be processed" />
+    <item key="IDS_IssueDateEmpty" value="Issued date cannot be empty" />
+    <item key="IDS_InvalidDOB" value="Birth date is incorrect" />
+    <item key="IDS_InvalidDOB1" value="Birth date cannot be later than issued date of ID card" />
+    <item key="IDS_InvalidDOB2" value="You cannot open a account because of under 15 years old" />
+    <item key="IDS_InvalidDateFormat" value="Date is incorrect" />
+    <item key="IDS_InvalidDOBEmpty" value="Birth date cannot be empty" />
+    <item key="IDS_InvalidIDNumber" value="Incorrect ID card / Passport" />
+    <item key="IDS_InvalidIDNumberEmpty" value="ID / Passport number cannot be empty" />
+    <item key="IDS_InvalidName" value="Incorrect name" />
+    <item key="IDS_InvalidNameEmpty" value="Name cannot be empty" />
+    <item key="IDS_InvalidACNumber" value="Incorrect account number" />
+    <item key="IDS_InvalidACNumberEmpty" value="Account number cannot be empty" />
+    
+    <item key="IDS_InvalidGender" value="Gender is incorrect" />
+    <item key="IDS_InvalidGenderEmpty" value="Gender cannot be empty" />
+    <item key="IDS_InvalidAddress" value="Address is incorrect" />
+    <item key="IDS_InvalidAddressEmpty" value="Address cannot be empty" />
+    <item key="IDS_InvalidEmail" value="Email is incorrect" />
+    <item key="IDS_InvalidEmailEmpty" value="Email cannot be empty" />
+    <item key="IDS_InvalidIssuePlace" value="Issued place is incorrect" />
+    <item key="IDS_InvalidIssuePlaceEmpty" value="Issued place cannot be empty" />
+    <item key="IDS_InvalidPhoneNo" value="Phone number is incorrect" />
+    <item key="IDS_InvalidPhoneNoEmpty" value="Phone number cannot be empty" />
+    <item key="IDS_InvalidSavCity" value="City is incorrect" />
+    <item key="IDS_InvalidSavCityBranch" value="City cannot be empty" />
+
+    <!-- for atm card
+	3001,3002,3003,3005,3006,3010,3012,3013,3014,3015,3016,3017,3018,3019,3020,3021,3022,3023,3024,3025,3026,3027,3028,3029,3030,3033,3036
+	3037,3038,3039,3040,3041,3042,3043,3126,3128,3202,3300,3301,3402,3403,3501,3504,3506,3709,3801,3809,3867
+     -->
+	<item key="IDS_ERR_CODE_3001" value="Invalid transaction key"/>
+	<item key="IDS_ERR_CODE_3002" value="Quý khách nhập sai mật khẩu.| Vui lòng thử lại"/>
+	<item key="IDS_ERR_CODE_3003" value="Quý khách đã nhập sai PIN quá số lần cho phép."/>
+	<item key="IDS_ERR_CODE_3005" value="Thẻ của Quý khách đã hết hạn.| Quý khách vui lòng liên hệ | ngân hàng phát hành thẻ để đổi thẻ."/>
+	<item key="IDS_ERR_CODE_3006" value="Thẻ của Quý khách tạm thời bị khóa. | Quý khách vui lòng liên hệ với Ngân hàng."/>
+	<item key="IDS_ERR_CODE_3010" value="Quý khách đã nhập tài khoản sai. | Hoặc Ngân hàng không đáp ứng dịch vụ cho thẻ này."/>
+	<item key="IDS_ERR_CODE_3012" value=""/>
+	<item key="IDS_ERR_CODE_3013" value="Thẻ của Quý khách tạm thời bị khóa. | Quý khách vui lòng liên hệ với Ngân hàng."/>
+	<item key="IDS_ERR_CODE_3014" value="Xin lỗi Quý khách, giao dịch không thành công do nhà cung cấp không sẵn sàng. | Vui lòng thử lại sau."/>
+	<item key="IDS_ERR_CODE_3015" value="Xin lỗi Quý khách, giao dịch không thành công. | Vui lòng thử lại sau."/>
+	<item key="IDS_ERR_CODE_3016" value=""/>
+	<item key="IDS_ERR_CODE_3017" value=""/>
+	<item key="IDS_ERR_CODE_3018" value=""/>
+	<item key="IDS_ERR_CODE_3019" value="Thẻ chưa được kích hoạt."/>
+	<item key="IDS_ERR_CODE_3020" value=""/>
+	<item key="IDS_ERR_CODE_3021" value=""/>
+	<item key="IDS_ERR_CODE_3022" value=""/>
+	<item key="IDS_ERR_CODE_3023" value=""/>
+	<item key="IDS_ERR_CODE_3024" value=""/>
+	<item key="IDS_ERR_CODE_3025" value=""/>
+	<item key="IDS_ERR_CODE_3026" value="Tài khoản bị đóng băng"/>
+	<item key="IDS_ERR_CODE_3027" value=""/>
+	<item key="IDS_ERR_CODE_3028" value=""/>
+	<item key="IDS_ERR_CODE_3029" value="Số tiền Quý khách yêu cầu nhỏ hơn hạn mức giao dịch tối thiểu một lần."/>
+	<item key="IDS_ERR_CODE_3030" value="Tài khoản bị đóng băng"/>
+	<item key="IDS_ERR_CODE_3033" value=""/>
+	<item key="IDS_ERR_CODE_3036" value=""/>
+	<item key="IDS_ERR_CODE_3037" value=""/>
+	<item key="IDS_ERR_CODE_3038" value=""/>
+	<item key="IDS_ERR_CODE_3039" value=""/>
+	<item key="IDS_ERR_CODE_3040" value=""/>
+	<item key="IDS_ERR_CODE_3041" value=""/>
+	<item key="IDS_ERR_CODE_3042" value=""/>
+	<item key="IDS_ERR_CODE_3043" value="Tài khoản của Quý khách không đủ tiền để thực hiện giao dịch."/>
+	<item key="IDS_ERR_CODE_3126" value=""/>
+	<item key="IDS_ERR_CODE_3128" value=""/>
+	<item key="IDS_ERR_CODE_3202" value=""/>
+	<item key="IDS_ERR_CODE_3200" value=""/>
+	<item key="IDS_ERR_CODE_3301" value=""/>
+	<item key="IDS_ERR_CODE_3402" value="Thẻ của Quý khách không hợp lệ hoặc tài khoản của Quý khách đã bị đóng. | Quý khách vui lòng liên hệ Ngân hàng để hỗ trợ."/>
+	<item key="IDS_ERR_CODE_3403" value="Số tiền Quý khách yêu cầu vượt quá hạn mức thẻ."/>
+	<item key="IDS_ERR_CODE_3501" value=""/>
+	<item key="IDS_ERR_CODE_3504" value="Số tiền Quý khách cần rút vượt quá hạn mức giao dịch tối đa một ngày."/>
+	<item key="IDS_ERR_CODE_3506" value=""/>
+	<item key="IDS_ERR_CODE_3709" value=""/>
+	<item key="IDS_ERR_CODE_3801" value=""/>
+	<item key="IDS_ERR_CODE_3809" value=""/>
+	<item key="IDS_ERR_CODE_3867" value=""/>
+	<item key="IDS_ERR_CODE_4001" value="Quý khách đã nhập sai PIN quá số lần cho phép."/>
+	<item key="IDS_ERR_CODE_OTHER" value="Xin lỗi, có lỗi trong quá trình giao dịch. | Vui lòng nhận vé xếp hàng và đi đến chi nhánh"/>
+
+</config>
